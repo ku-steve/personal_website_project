@@ -1,0 +1,3 @@
+[build]
+  publish = "."
+  command = ""  # Intentionally left blank for static HTML site
